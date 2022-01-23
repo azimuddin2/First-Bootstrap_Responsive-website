@@ -1,0 +1,80 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+
+.buy-btn{
+    background-color: #ff3887;
+    color: white;
+    padding: 8px 24px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.price-title {
+    color: #ff3887;
+}
+
+.bg-cat1 {
+    background-color: orange;
+}
+
+.bg-cat1 img {
+    width: 100px;
+}
+
+.bg-cat2 {
+    background-color: orchid;
+}
+
+.bg-cat2 img {
+    width: 100px;
+}
+
+.bg-cat3 {
+    background-color: blue;
+}
+
+.bg-cat3 img {
+    width: 100px;
+}
+
+.btn-buyNow {
+    background-color: #ff3887;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 8px;
+}
+
+.bg-sub{
+    background-color: #fceae8;
+}
+
+.bg-sub h1 {
+    font: 20px;
+}
+
+.sub-title {
+    font-size: 1.75rem;
+}
+
+.sub-info {
+    color: gray;
+    font-weight: 500;
+}
+
+#sub-input {
+    border: 1px solid #ced4da;
+    width: 280px;
+    padding: 6px 4px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.btn-submit{
+    border:none;
+    background-color: #ff3887;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 6px;
+}
